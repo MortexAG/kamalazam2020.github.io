@@ -23,7 +23,7 @@ export const HERO_DATA = {
   posterUrl:
     "https://kamalazam.com/assets/hero_cinematic_automotive_1789133676136-Bf8Y8A7B.jpg",
 
-  logoUrl: "/kamal-azam-logo.png",
+  logoUrl: "https://res.cloudinary.com/o8xvh2au/image/upload/v1789437854/kamal-azam-logo.png",
 
   phone: "01011633339",
   phoneDisplay: "01011633339",
