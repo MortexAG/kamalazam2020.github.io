@@ -53,7 +53,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection, onNavigate, onOpe
             aria-label="Kamal Azam Media Production Home"
           >
             <img
-              src="/kamal-azam-logo.png"
+              src="https://mortexag.com/kamalazam2020.github.io/"
               alt="Kamal Azam"
               className="h-8 sm:h-10 md:h-11 w-auto object-contain brightness-110 filter drop-shadow-[0_0_12px_rgba(255,255,255,0.2)] group-hover:drop-shadow-[0_0_18px_rgba(192,132,252,0.6)] transition-all duration-300"
             />
