@@ -15,10 +15,10 @@ export const HERO_DATA = {
   role: "Content Creator & Media Production",
 
   videoMp4:
-    "https://cdn.prod.website-files.com/67c478d542c290eedb23b6f5%2F67fe69b82c9343e6f4901ad2_Videos%20for%20website%202-transcode.mp4",
+    "https://res.cloudinary.com/o8xvh2au/video/upload/v1789437937/reel1-4k.mp4",
 
   videoWebm:
-    "https://cdn.prod.website-files.com/67c478d542c290eedb23b6f5%2F67fe69b82c9343e6f4901ad2_Videos%20for%20website%202-transcode.webm",
+    "https://res.cloudinary.com/o8xvh2au/video/upload/v1789437937/reel1-4k.mp4",
 
   posterUrl:
     "https://kamalazam.com/assets/hero_cinematic_automotive_1789133676136-Bf8Y8A7B.jpg",
