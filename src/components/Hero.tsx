@@ -97,7 +97,7 @@ export const Hero: React.FC<HeroProps> = ({ onWatchShowreel, onExploreWork, onOp
           className="inline-flex flex-col items-center justify-center mb-6"
         >
           <img
-            src="/kamal-azam-logo.png"
+            src="https://mortexag.com/kamalazam2020.github.io/"
             alt="Kamal Azam"
             className="h-16 sm:h-20 md:h-24 w-auto object-contain mb-3 drop-shadow-[0_0_30px_rgba(192,132,252,0.45)]"
           />
